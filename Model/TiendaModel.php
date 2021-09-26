@@ -13,4 +13,6 @@ class TiendaModel{
     return $productos;
 
 } 
+echo 'celeste';
+
 }
